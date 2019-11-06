@@ -1,0 +1,23 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://storage.googleapis.com/rhizome-public-storage/images/rhizome_logo_256px.png",
+      "logo_1024": "https://storage.googleapis.com/rhizome-public-storage/images/rhizome_logo_1024px.png",
+      "logo_svg": "https://storage.googleapis.com/rhizome-public-storage/images/rhizome_logo.svg"
+    },
+    "media": {
+      "twitter": "https://twitter.com/rhizomeicx",
+      "youtube": "https://www.youtube.com/rhizomeicx",
+      "github": "https://github.com/rhizomeicx",
+      "telegram": "https://t.me/rhizomeicx"
+    }
+  },
+  "server": {
+    "location": {
+        "country": "USA",
+        "city": "South Carolina"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "http://ctz.rhizomeicx.com:9000"
+  }
+}
