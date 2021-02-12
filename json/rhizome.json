@@ -18,6 +18,6 @@
         "city": "South Carolina"
     },
     "server_type": "cloud",
-    "api_endpoint": "http://ctz.rhizomeicx.com:9000"
+    "api_endpoint": "http://prep.rhizomeicx.com:9000"
   }
 }
